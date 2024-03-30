@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+transformers
+gradio==4.14.0
+numba
+numpy
+torch
+tqdm
+more-itertools
+tiktoken==0.3.3
